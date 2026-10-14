@@ -1,0 +1,7 @@
+Best model by test ROC-AUC: XGBoost
+Model         XGBoost
+Accuracy     0.901639
+Precision     0.84375
+Recall       0.964286
+F1-Score          0.9
+ROC-AUC      0.958874
