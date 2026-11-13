@@ -75,11 +75,9 @@ This is the intended structure based on the project steps. Keep only files that 
 
 ### 1. Clone the repository
 
-Replace the placeholder URL with your actual repository URL.
-
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
+git clone https://github.com/mosalih23-c/CodeAlpha_DiseasePrediction.git
+cd CodeAlpha_DiseasePrediction
 ```
 
 ### 2. Create and activate a virtual environment
